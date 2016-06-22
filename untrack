@@ -1,0 +1,4 @@
+#/bin/sh
+for path in $@; do
+	git rm --cached -- $path
+done
