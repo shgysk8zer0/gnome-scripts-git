@@ -1,8 +1,8 @@
 #/bin/sh
 for path in $@; do
 	if [-f $path ]; then
-		git rm -- $path
+		git rm -- "$path"
 	else
-		git rm -r -- $path
+		git rm -r -- "$path"
 	fi
 done

@@ -1,4 +1,2 @@
 #/bin/sh
-for path in $@; do
-	git reset HEAD -- $path
-done
+git reset HEAD -- "$@"
