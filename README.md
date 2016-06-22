@@ -3,7 +3,7 @@ A collection of Gnome Scripts for Git. **Linux only**
 
 - - -
 
-![Screenshot](./Screenshot.png)
+![Screenshot](https://i.imgur.com/iTP83P2.png)
 
 ## Contact author
 - [Report issue](https://github.com/shgysk8zer0/gnome-scripts-git/issues/new)
